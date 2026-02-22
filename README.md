@@ -91,11 +91,11 @@ dim_date
 
 # -----Model Structure-------
 
-           dim_customer
-                |
-dim_date — fact_sales — dim_product
-                |
-           dim_location
+              dim_customer
+                   | 
+      dim_date — fact_sales — dim_product
+                   |
+              dim_location
 
 
 # 🧠 Skills Demonstrated
